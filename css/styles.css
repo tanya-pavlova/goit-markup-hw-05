@@ -5,7 +5,8 @@
     --secondary-color: #757575;
     --accent-color: #2196F3;
     --background-contrast: #2F303A;
-    --text-contrast: #FFFFFF;    
+    --text-contrast: #FFFFFF;   
+     
 }
 
 *,
@@ -99,11 +100,14 @@ right: 8px;
     pointer-events: none;
 }
 
+.portfolio {
+    border-top: 1px solid #ECECEC;
+}
 /*============ HEADER  ============*/
 
 .header {
     padding: 24px 0;
-    border-bottom: 1px solid #ECECEC;
+   
   }
 
 .logo-accent {
