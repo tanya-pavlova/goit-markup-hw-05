@@ -74,13 +74,7 @@ body {
     transform: translate(-50%,-50%);
     
 }
-.modal-wrapper {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    min-height: 100%;
-    padding: 15px;
-}
+
 
 .close-button {
 width: 30px;
